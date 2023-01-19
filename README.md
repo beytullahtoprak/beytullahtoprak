@@ -15,7 +15,7 @@ A passionate Full Stack Developer from Turkey
 <a href="https://instagram.com/beytullah_toprak" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/@beytullahtoprak" target="_blank">
+<a href="https://www.youtube.com/@beytullahtoprak" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -25,14 +25,14 @@ A passionate Full Stack Developer from Turkey
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
-https://beytullahtoprak.com  
+<div align="center">https://beytullahtoprak.com</div>  
 
 
 </td><td valign="top" width="50%">
 
-<div align="center">[https://teknomanyetik.com](https://teknomanyetik.com)</div>  
+<div align="center">https://teknomanyetik.com</div>  
 
 
 </td></tr></table>  
